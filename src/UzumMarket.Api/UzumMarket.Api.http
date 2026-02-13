@@ -1,0 +1,6 @@
+@UzumMarket.Api_HostAddress = http://localhost:5192
+
+GET {{UzumMarket.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

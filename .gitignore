@@ -1,0 +1,15 @@
+bin/
+obj/
+*.db
+*.log
+.vs/
+.vscode/
+node_modules/
+dist/
+coverage/
+src/**/bin/
+src/**/obj/
+tests/**/bin/
+tests/**/obj/
+tests/UzumMarket.Tests/bin/
+tests/UzumMarket.Tests/obj/
